@@ -1,3 +1,5 @@
+# INN-Hotel-Booking-Cancellation-Prediction
+
 An in-depth analysis and prediction tool for hotel booking cancellations helps hotels reduce losses and improve operations, using data and visuals for smarter decision
 
 INN Hotel Booking Cancellation Prediction Notebook This README provides a detailed overview of the INN Hotel Booking Cancellation Prediction notebook, presenting a comprehensive guide to the contents and significance of the notebook. The notebook comprises data analysis, visualization, data preprocessing, and predictive modeling steps aimed at predicting hotel booking cancellations effectively
